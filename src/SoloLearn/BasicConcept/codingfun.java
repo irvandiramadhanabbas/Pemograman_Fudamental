@@ -1,4 +1,4 @@
-package BasicConcept;
+package SoloLearn.BasicConcept;
 
 class codingfun{
     public static void main(String[] args) {

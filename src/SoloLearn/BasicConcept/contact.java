@@ -1,4 +1,4 @@
-package BasicConcept;
+package SoloLearn.BasicConcept;
 
 public class contact {
     public static void main(String[] args) {

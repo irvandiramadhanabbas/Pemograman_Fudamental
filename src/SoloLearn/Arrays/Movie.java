@@ -1,4 +1,4 @@
-package Arrays;
+package SoloLearn.Arrays;
 
 import java.util.Scanner;
 

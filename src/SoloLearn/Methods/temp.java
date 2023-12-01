@@ -1,4 +1,4 @@
-package Methods;
+package SoloLearn.Methods;
 
 import java.util.Scanner;
 

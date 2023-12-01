@@ -1,4 +1,4 @@
-package ControlFlow;
+package SoloLearn.ControlFlow;
 
 import java.util.Scanner;
 

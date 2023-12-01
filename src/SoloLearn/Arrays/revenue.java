@@ -1,4 +1,4 @@
-package Arrays;
+package SoloLearn.Arrays;
 
 public class revenue {
     public static void main(String[] args) {
