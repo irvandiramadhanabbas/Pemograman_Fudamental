@@ -35,7 +35,7 @@ public class mahasiswaform extends JFrame{
                 String alamat = tfalamat.getText();
 
                 textAreaNama.setText("Nama          :" + " " + nama);
-                textAreaTL.setText("Tanggal Lahir           :" + " " + tlTanggal + " " + tlBulan + " " + tlTahun);
+                textAreaTL.setText("Tanggal Lahir           :" + " " + tlTanggal + " " + bln.getSelectedItem() + " " + tlTahun);
                 textAreaAlamat.setText("Alamat          :" + " " + alamat);
 
                 LocalDate birthdate = LocalDate.of(tlTahun, tlBulan, tlTanggal);
